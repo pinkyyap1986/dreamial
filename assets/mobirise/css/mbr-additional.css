@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3 .mbr-brand__name a {
+  font-size: 11px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-3 .mbr-navbar__items a {
+  font-size: 16px;
+}
+#header4-t H1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 84px;
+  text-align: left;
+}
+#header4-t P {
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box3-d .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-d .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-d .mbr-article P {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-d .mbr-article {
+  color: #efefef;
+}
+#form1-w .mbr-header__text {
+  color: #ffffff;
+}
+#contacts1-10 P {
+  color: #efefef;
+}
+#contacts1-10 DIV {
+  color: #ffffff;
+}
