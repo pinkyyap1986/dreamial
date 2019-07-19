@@ -144,12 +144,12 @@
             },
             ".mbr-article P": {
               "text-align": "center",
-              "font-size": "14px",
+              "font-size": "13px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-article": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -176,7 +176,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "",
-          "text": "<p>I'm a Web and Graphic Designer based in Kuala Lumpur, Malaysia focusing my practice on arts and cultural projects.&nbsp;</p>",
+          "text": "<p>Highly creative and multitalented Graphic Designer with extensive experience in multimedia, marketing and print design. Exceptional collaborative and interpersonal skills; dynamic team player with well-developed written and verbal communication abilities. Highly skilled in client and vendor relations and negotiations; talented at building and maintaining “win-win” partnerships. Passionate and inventive creator of innovative marketing strategies and campaigns; accustomed to performing in deadline-driven environments with an emphasis on working within budget requirements.</p><p>\n</p><p>Creative experience in the following:</p><p>\n</p><p>\n</p><p>Print \n: Brochures &amp; Newsletters &nbsp;,Logos &amp; Business Cards , Posters &amp; Post Cards ,Stationery</p><p>PHOTOGRAPHY : Black &amp; White Photography ,Lithography ,Retouching &nbsp;,Photograph Restoration&nbsp;</p><p>WEB &amp; Multimedia\n: Website Design ,Video Editing , Video Photomontages ,Social Media</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a>",
           "_tags": [
             "Theme"
