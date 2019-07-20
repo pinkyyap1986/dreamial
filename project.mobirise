@@ -451,7 +451,7 @@
           "_anchor": "features1-o",
           "_styles": {
             "P": {
-              "font-size": "10px",
+              "font-size": "12px",
               "text-align": "center",
               "color": "#ffffff"
             },
@@ -460,7 +460,7 @@
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
-              "font-size": "14px"
+              "font-size": "15px"
             }
           }
         },
