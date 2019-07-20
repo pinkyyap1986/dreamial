@@ -43,7 +43,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "11px",
+              "font-size": "13px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -79,7 +79,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"mailto:dreamial.ms@gmail.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DREAMIAL MULTIMEDIA&nbsp;</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"mailto:dreamial.ms@gmail.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DREAMIAL <br>MULTIMEDIA SOLUTION&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -460,7 +460,7 @@
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "17px"
             }
           }
         },
