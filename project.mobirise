@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 25,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -160,10 +160,10 @@
             "showButton": true,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-852x480.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -176,7 +176,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "",
-          "text": "<p>Highly creative and multitalented Graphic Designer with extensive experience in multimedia, marketing and print design. Exceptional collaborative and interpersonal skills; dynamic team player with well-developed written and verbal communication abilities. Highly skilled in client and vendor relations and negotiations; talented at building and maintaining “win-win” partnerships. Passionate and inventive creator of innovative marketing strategies and campaigns; accustomed to performing in deadline-driven environments with an emphasis on working within budget requirements.</p><p>\n</p><p>Creative experience in the following:</p><p>\n</p><p>\n</p><p>Print \n: Brochures &amp; Newsletters &nbsp;,Logos &amp; Business Cards , Posters &amp; Post Cards ,Stationery</p><p>PHOTOGRAPHY : Black &amp; White Photography ,Lithography ,Retouching &nbsp;,Photograph Restoration&nbsp;</p><p>WEB &amp; Multimedia\n: Website Design ,Video Editing , Video Photomontages ,Social Media</p><p><br></p>",
+          "text": "<p>I’m always curious for the world around me and been drawn to the beauty of design. I love different interpretations of the same world, to create something unique is one of the more exciting feelings. Let’s art and design be a part of my life journey.\n</p><p>\n</p><p>I am today proficient in various types of graphic designing work, including logo creation, marketing materials like flyers, poster, brochures, corporate identity, packaging and book covers as well.\n</p><p>\n</p><p>I have experience of working with different designing software, including the following:\n</p><p>\n</p><p>– Adobe illustrator\n</p><p>– Adobe Photoshop\n</p><p>– Adobe InDesign\n</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a>",
           "_tags": [
             "Theme"
@@ -236,13 +236,242 @@
           "_anchor": "gallery1-j"
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/broken-glass-wallpaper-6-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": false,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "What are you looking for?",
+          "text": "<p><b>What are you looking for?\n</b></p><p>Meeting your needs... Inspiring your future\n</p><p>Your brand is your business. It is what you are, who you are and what your entire reputation depends upon. As a branding agency, we create compelling advertising campaigns that will help you achieve your objectives and targets. Whether you're looking to attract new clients or sell more products or services to existing customers or raise brand awareness.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-m"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blackstreet-355750-1920x1199.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "&nbsp;SERVICES",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/branding-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Branding &amp; Strategy",
+          "caption1": "We believe a brand should be more than just a logo. It should communicate who you are, what you stand for and why you do what you do… at every touch point. Our team specializes in creating memorable brand identities for business to consumer companies, multi-level companies, luxury goods, retail, travel and tourism, fashion and entertainment, food and beverage, and active lifestyle/fitness.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6239-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Website Design &amp; Interactive",
+          "caption2": "Looking to make your website sing and outstanding? Our digital group can produce great work with speed-to-market production, efficiency and flexibility. Our past experience will keep your web marketing on the forefront. We dare to dream up digital goodness that may have never been tried before.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/young-college-students-walking-together-23-2148166312-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Advertising &amp; Print Design",
+          "caption3": "he blank piece of paper may be one of the most daunting foes on earth. With vast experience throughout the years in graphic &amp; web design, our talented creative teams are able to fill them with the new and great ideas that help us attain our ultimate goal - selling. Todate, we've successfully accomplished countless projects which helped our satisfied clients to achieve the goals set.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/camera-gimbal-dslr-video-1426-942-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Video &amp; Animation",
+          "caption4": "Creating an emotional video to impact your consumers are one of the hardest things to do in marketing. We can help you identify points to initiate lasting branding experience, enhance your video style and curb appeal with 2D Animated videos leveraging your marketing activities and increasing your customer engagement.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-o",
+          "_styles": {
+            "P": {
+              "font-size": "10px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/broken-glass-wallpaper-6-1920x1080.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#000000",
             "overlay": false,

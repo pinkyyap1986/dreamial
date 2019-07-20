@@ -48,6 +48,32 @@
 #msg-box3-d .mbr-article {
   color: #ffffff;
 }
+#content5-m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-article {
+  color: #fff;
+}
+#content5-m .mbr-article P {
+  font-size: 14px;
+}
+#features1-o P {
+  font-size: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+#features1-o .mbr-section-title .mbr-header__text {
+  color: #ffffff;
+}
+#features1-o .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  font-size: 14px;
+}
 #form1-w .mbr-header__text {
   color: #ffffff;
 }
