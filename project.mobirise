@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 19,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -43,7 +43,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "13px",
+              "font-size": "16px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
