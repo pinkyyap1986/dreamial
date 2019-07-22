@@ -293,7 +293,7 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "columns": "4",
             "bgImageRadio": true,
@@ -467,7 +467,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -523,7 +523,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DREAMIAL MULTIMEDIA SOLUTION . <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 DREAMIAL MULTIMEDIA SOLUTION . Term of Use&nbsp;| Privacy Policy",
           "_tags": [
             "Theme"
           ],
