@@ -479,7 +479,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banners-contact-us-1-265x71.png",
+              "src": "@PROJECT_PATH@/assets/images/banners-contact-us-265x71.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
