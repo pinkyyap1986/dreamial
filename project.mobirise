@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -332,7 +332,7 @@
               "size": 0
             }
           },
-          "title1": "Branding &amp; Strategy",
+          "title1": "<a href=\"assets/files/PINKY-PORTFOLIO.pdf\" target=\"_blank\">Branding &amp; Strategy</a>",
           "caption1": "We believe a brand should be more than just a logo. It should communicate who you are, what you stand for and why you do what you do… at every touch point. Our team specializes in creating memorable brand identities for business to consumer companies, multi-level companies, luxury goods, retail, travel and tourism, fashion and entertainment, food and beverage, and active lifestyle/fitness.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -355,7 +355,7 @@
               "size": 0
             }
           },
-          "title2": "Website Design &amp; Interactive",
+          "title2": "<a href=\"assets/files/PINKY-PORTFOLIO.pdf\" target=\"_blank\">Website Design &amp; Interactive</a>",
           "caption2": "Looking to make your website sing and outstanding? Our digital group can produce great work with speed-to-market production, efficiency and flexibility. Our past experience will keep your web marketing on the forefront. We dare to dream up digital goodness that may have never been tried before.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -378,7 +378,7 @@
               "size": 0
             }
           },
-          "title3": "Advertising &amp; Print Design",
+          "title3": "<a href=\"assets/files/PINKY-PORTFOLIO.pdf\" target=\"_blank\">Advertising &amp; Print Design</a>",
           "caption3": "he blank piece of paper may be one of the most daunting foes on earth. With vast experience throughout the years in graphic &amp; web design, our talented creative teams are able to fill them with the new and great ideas that help us attain our ultimate goal - selling. Todate, we've successfully accomplished countless projects which helped our satisfied clients to achieve the goals set.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -401,7 +401,7 @@
               "size": 0
             }
           },
-          "title4": "Video &amp; Animation",
+          "title4": "<a href=\"assets/files/PINKY-PORTFOLIO.pdf\" target=\"_blank\">Video &amp; Animation</a>",
           "caption4": "Creating an emotional video to impact your consumers are one of the hardest things to do in marketing. We can help you identify points to initiate lasting branding experience, enhance your video style and curb appeal with 2D Animated videos leveraging your marketing activities and increasing your customer engagement.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -466,60 +466,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/broken-glass-wallpaper-6-1920x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "form": {
-            "action": "dreamial.ms@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-w",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -533,7 +479,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banners-contact-us-265x71.png",
+              "src": "@PROJECT_PATH@/assets/images/banners-contact-us-1-265x71.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -563,6 +509,26 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 DREAMIAL MULTIMEDIA SOLUTION . <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k"
         }
       ]
     }
